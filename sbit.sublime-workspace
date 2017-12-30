@@ -1,0 +1,3493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"byp",
+				"bypass_clarion_generation"
+			],
+			[
+				"by",
+				"bypass_clarion_generation"
+			],
+			[
+				"procces",
+				"proccess_cube_global\tfunction"
+			],
+			[
+				"engine_",
+				"engine_rkfbits"
+			],
+			[
+				"engi",
+				"engine_mcube"
+			],
+			[
+				"pdv_nombre_fa",
+				"pdv_nombre_fantasia"
+			],
+			[
+				"pdv_nom",
+				"pdv_nombre_factura"
+			],
+			[
+				"CTAS",
+				"CTASCTESMODELBASE"
+			],
+			[
+				"pdv_codigo",
+				"pdv_codigo_sucursal"
+			],
+			[
+				"drop",
+				"drop_duplicates"
+			],
+			[
+				"fact",
+				"facturadf"
+			],
+			[
+				"solncr",
+				"solncrdf"
+			],
+			[
+				"detrep",
+				"detrepdf"
+			],
+			[
+				"d",
+				"d05df"
+			],
+			[
+				"cpv",
+				"cpvdf"
+			],
+			[
+				"retu",
+				"return_df"
+			],
+			[
+				"sol",
+				"solncrdf"
+			],
+			[
+				"to_da",
+				"to_dataframe"
+			],
+			[
+				"Dbf",
+				"Dbf5"
+			],
+			[
+				"ctacte",
+				"ctacte_vencimiento_factura"
+			],
+			[
+				"para",
+				"params_update"
+			],
+			[
+				"Master",
+				"MasterCtaCte"
+			],
+			[
+				"estado",
+				"estadof"
+			],
+			[
+				"solnc",
+				"solncrdf"
+			],
+			[
+				"soln",
+				"solncrdf"
+			],
+			[
+				"BRE",
+				"BREAKCSV"
+			],
+			[
+				"MasterB",
+				"MasterQuiebre"
+			],
+			[
+				"factura",
+				"facturadocleg"
+			],
+			[
+				"factur",
+				"facturadocleg"
+			],
+			[
+				"fac",
+				"facturadf"
+			],
+			[
+				"CTASCTESC",
+				"CTASCTESCSV"
+			],
+			[
+				"mcta",
+				"mctactedf"
+			],
+			[
+				"CTASCTM",
+				"CTASCTESMDC"
+			],
+			[
+				"CTASC",
+				"CTASCTESCSV"
+			],
+			[
+				"trimes",
+				"trimestre_semana"
+			],
+			[
+				"quarter",
+				"quarter_month"
+			],
+			[
+				"mctact",
+				"mctactedict"
+			],
+			[
+				"pdvd",
+				"pdvdf"
+			],
+			[
+				"logg",
+				"logger"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"mode",
+				"model_n"
+			],
+			[
+				"wi",
+				"width\t.width()"
+			],
+			[
+				"crud_",
+				"crud_planilla"
+			],
+			[
+				"pln",
+				"planame"
+			],
+			[
+				"exclud",
+				"exclude_query"
+			],
+			[
+				"pagin",
+				"paginationSize"
+			],
+			[
+				"tablu",
+				"tabulator_options"
+			],
+			[
+				"tabu",
+				"tabulator_options"
+			],
+			[
+				"model_c",
+				"model_class"
+			],
+			[
+				"fiedl",
+				"fieldobjs"
+			],
+			[
+				"jtS",
+				"jtStartIndex"
+			],
+			[
+				"fiel",
+				"fieldobjs"
+			],
+			[
+				"verso",
+				"verbose_name"
+			],
+			[
+				"main",
+				"main_app"
+			],
+			[
+				"docu",
+				"documento_numero"
+			],
+			[
+				"unidad",
+				"unidades_cajas"
+			],
+			[
+				"cl_it",
+				"cl_item_reparto"
+			],
+			[
+				"suge",
+				"sugerido_may"
+			],
+			[
+				"fami",
+				"familiadict"
+			],
+			[
+				"pd",
+				"pdetail"
+			],
+			[
+				"gra",
+				"gravada_5"
+			],
+			[
+				"MaterP",
+				"MasterProduct"
+			],
+			[
+				"work",
+				"working_days_in_range"
+			],
+			[
+				"fiscal_",
+				"fiscal_convertion"
+			],
+			[
+				"Mster",
+				"MasterCambios"
+			],
+			[
+				"stk_p",
+				"stk_params"
+			],
+			[
+				"art_unid",
+				"art_unidades_cajas"
+			],
+			[
+				"Maste",
+				"MasterProduct"
+			],
+			[
+				"MasterP",
+				"MasterProduct"
+			],
+			[
+				"arti",
+				"articulodict"
+			],
+			[
+				"sucu",
+				"sucursaldict"
+			],
+			[
+				"super",
+				"supervisor_ventas"
+			],
+			[
+				"nombre",
+				"nombrefantasia"
+			],
+			[
+				"unidadana",
+				"unidadanalisis_tipo"
+			],
+			[
+				"cube",
+				"cubenamedst"
+			],
+			[
+				"concat",
+				"concat_dataframes"
+			],
+			[
+				"CUB",
+				"CUBESDIR"
+			],
+			[
+				"field",
+				"fieldnames"
+			],
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"gf",
+				"gfamilias"
+			],
+			[
+				"query",
+				"query_string"
+			],
+			[
+				"pro",
+				"proccess_daycube"
+			],
+			[
+				"Scatn",
+				"ScantrackData"
+			],
+			[
+				"get_image",
+				"get_imageurl"
+			],
+			[
+				"esper",
+				"espersonalactivo"
+			],
+			[
+				"lz",
+				"lzs"
+			],
+			[
+				"desp",
+				"descripcion"
+			],
+			[
+				"prod_cod_",
+				"prod_constante_cod"
+			],
+			[
+				"compr",
+				"compressToBase64"
+			],
+			[
+				"aprobado",
+				"aprobado_050"
+			],
+			[
+				"tasa_cam",
+				"tasa_cambio_dna"
+			],
+			[
+				"Banco",
+				"BancoCliente"
+			],
+			[
+				"agencia",
+				"agenciapk"
+			],
+			[
+				"form_",
+				"form_puntoventa_filter"
+			],
+			[
+				"finance_man",
+				"finance_man_formularios"
+			],
+			[
+				"circuito",
+				"circuito_prioridad"
+			],
+			[
+				"cir",
+				"circuito_prioridad"
+			],
+			[
+				"stf",
+				"strftime"
+			],
+			[
+				"rece",
+				"recepcionmercaderia_alter_cell"
+			],
+			[
+				"carga",
+				"cargado_010_fecha"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"see_bod",
+				"see_bodegaje"
+			],
+			[
+				"Etique",
+				"EtiquetadoLayoutListar"
+			],
+			[
+				"factu",
+				"factura_numero"
+			],
+			[
+				"addC",
+				"addCommas"
+			],
+			[
+				"meta",
+				"method_name"
+			],
+			[
+				"venc",
+				"venccomentobjs"
+			],
+			[
+				"sales_man",
+				"sales_man_formularios"
+			],
+			[
+				"form_prodmaestro",
+				"form_prodmaestrovenc"
+			],
+			[
+				"ProdMaes",
+				"ProdMaestroVenc"
+			],
+			[
+				"coment",
+				"comentario_kam"
+			],
+			[
+				"COMENTARIOS",
+				"COMENTARIOSKAM"
+			],
+			[
+				"Text",
+				"Textarea"
+			],
+			[
+				"wid",
+				"widget"
+			],
+			[
+				"ProdMa",
+				"ProdMaestroVenc"
+			],
+			[
+				"pp",
+				"ppall"
+			],
+			[
+				"Pall",
+				"PalletsManagMovimiento"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"dis",
+				"distinct"
+			],
+			[
+				"render",
+				"render_template\trender_template"
+			],
+			[
+				"area",
+				"areaobj"
+			],
+			[
+				"layout",
+				"layout_edit_mode"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"bode",
+				"bodega_cod"
+			],
+			[
+				"pallet_x",
+				"pallets_x_profundidad"
+			],
+			[
+				"pallets_",
+				"pallets_x_altura"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sbit/urls.py",
+			"settings":
+			{
+				"buffer_size": 977,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lilith/views.py",
+			"settings":
+			{
+				"buffer_size": 35165,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lilith/tasks.py",
+			"settings":
+			{
+				"buffer_size": 151,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lilith/eva_manag.py",
+			"settings":
+			{
+				"buffer_size": 10831,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sbit/settings.py",
+			"settings":
+			{
+				"buffer_size": 3345,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sbit/celery.py",
+			"settings":
+			{
+				"buffer_size": 297,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Lilith/urls.py",
+			"settings":
+			{
+				"buffer_size": 2922,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 68.0,
+		"last_filter": "syntax python",
+		"selected_items":
+		[
+			[
+				"syntax python",
+				"Set Syntax: Python"
+			],
+			[
+				"vie",
+				"View: Toggle Menu"
+			],
+			[
+				"packa control remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa control",
+				"Package Control: Remove Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"VIE",
+				"View: Toggle Menu"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrape",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"syntax conf",
+				"Set Syntax: Buildout Config"
+			],
+			[
+				"synt conf",
+				"Set Syntax: Buildout Config"
+			],
+			[
+				"post",
+				"Snippet: $.post()"
+			],
+			[
+				"get",
+				"Snippet: $.get()"
+			],
+			[
+				"snip get",
+				"Snippet: .get()"
+			],
+			[
+				"snip post",
+				"Snippet: $.post()"
+			],
+			[
+				"jquery get",
+				"Snippet: jQuery.get"
+			],
+			[
+				"snip getjson",
+				"Snippet: $.getjson()"
+			],
+			[
+				"datatable",
+				"Snippet: datatable_raw"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"view ",
+				"View: Toggle Menu"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"snip requests",
+				"Snippet: requests_netipa_api_prototype"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"snip method_",
+				"Snippet: method_action_models"
+			],
+			[
+				"snip execu",
+				"Snippet: execute_operationsajax"
+			],
+			[
+				"snip control",
+				"Snippet: control_fields"
+			],
+			[
+				"snip con",
+				"Snippet: control_param"
+			],
+			[
+				"snip metho",
+				"Snippet: action_method_web"
+			],
+			[
+				" syntax django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"synt django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"snip sou",
+				"Snippet: source_error"
+			],
+			[
+				"snip autocom",
+				"Snippet: autocomplete_field"
+			],
+			[
+				"snip forminput",
+				"Snippet: forminputtemplate"
+			],
+			[
+				"snip form",
+				"Snippet: form_action_template"
+			],
+			[
+				"snip build",
+				"Snippet: build_inline_table"
+			],
+			[
+				"snip perms",
+				"Snippet: templateperms"
+			],
+			[
+				"snip alter",
+				"Snippet: alter_cell_function"
+			],
+			[
+				"snip autcom",
+				"Snippet: autocomplete_field"
+			],
+			[
+				"snip form filter",
+				"Snippet: formfilterajax"
+			],
+			[
+				"snip render",
+				"Snippet: render_template"
+			],
+			[
+				"snip check",
+				"Snippet: table_checkbox"
+			],
+			[
+				"snip table",
+				"Snippet: tableajax"
+			],
+			[
+				"snip viewta",
+				"Snippet: viewtableajax"
+			],
+			[
+				"snip templ",
+				"Snippet: templatelist"
+			],
+			[
+				"snip datepi",
+				"Snippet: jquery_datepicker"
+			],
+			[
+				"snip met",
+				"Snippet: action_method_web"
+			],
+			[
+				"snip execut",
+				"Snippet: execute_operationsajax"
+			],
+			[
+				"snip print",
+				"Snippet: print_web"
+			],
+			[
+				"snip template ",
+				"Snippet: template_action_form"
+			],
+			[
+				"snip contr",
+				"Snippet: control_param"
+			],
+			[
+				"snip celery",
+				"Snippet: celerytask"
+			],
+			[
+				"snip methot",
+				"Snippet: celerymethodtask"
+			],
+			[
+				"data no",
+				"Snippet: datatables_no_proccess"
+			],
+			[
+				"snip tiny",
+				"Snippet: templatetinybrowse"
+			],
+			[
+				"syntax django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"snip celer",
+				"Snippet: celerytask"
+			],
+			[
+				"snip exe",
+				"Snippet: execute_operationsajax"
+			],
+			[
+				"snip tem perm",
+				"Snippet: templateperms"
+			],
+			[
+				"snip task",
+				"Snippet: celerytask"
+			],
+			[
+				"snip form inpu",
+				"Snippet: forminputtemplate"
+			],
+			[
+				"snip template",
+				"Snippet: template_action_form"
+			],
+			[
+				"snip buil inl",
+				"Snippet: build_inline_table"
+			],
+			[
+				"snip viewt",
+				"Snippet: viewtableajax"
+			],
+			[
+				"snip templatelist",
+				"Snippet: templatelist"
+			],
+			[
+				"snip build inline",
+				"Snippet: build_inline_table"
+			],
+			[
+				"render",
+				"Snippet: render_template"
+			],
+			[
+				"snip template per",
+				"Snippet: templateperms"
+			],
+			[
+				"snip error",
+				"Snippet: source_error"
+			],
+			[
+				"snip label",
+				"Snippet: labelitemtable"
+			],
+			[
+				"data",
+				"Snippet: datatables_no_proccess"
+			],
+			[
+				"sinp tableaj",
+				"Snippet: tableajax"
+			],
+			[
+				"snip view table",
+				"Snippet: viewtableajax"
+			],
+			[
+				"snip sqli_",
+				"Snippet: sqli_trans"
+			],
+			[
+				"transca",
+				"Snippet: transaction_cordoba_template"
+			],
+			[
+				"snip request",
+				"Snippet: requests_django_model"
+			],
+			[
+				"autocom migr",
+				"Snippet: autocompletemigration"
+			],
+			[
+				"autocomplete url",
+				"Snippet: autocomplete_url"
+			],
+			[
+				"autocom url",
+				"Snippet: autocomplete_url"
+			],
+			[
+				"snip template action",
+				"Snippet: template_action_form"
+			],
+			[
+				"snip para",
+				"Snippet: control_param"
+			],
+			[
+				"snip forminpu",
+				"Snippet: forminputtemplate"
+			],
+			[
+				"tableaja",
+				"Snippet: tableajax"
+			],
+			[
+				"form filter",
+				"Snippet: formfilterajax"
+			],
+			[
+				"snip formfilter",
+				"Snippet: formfilterajax"
+			],
+			[
+				"template list",
+				"Snippet: templatelist"
+			],
+			[
+				"snip export",
+				"Snippet: export_buttons"
+			],
+			[
+				"snip vie",
+				"Snippet: viewtableajax"
+			],
+			[
+				"snip action",
+				"Snippet: action_method_web"
+			],
+			[
+				"inline\t",
+				"Snippet: build_inline_table"
+			],
+			[
+				"celery ",
+				"Snippet: celerymensaje"
+			],
+			[
+				"control",
+				"Snippet: control_fields"
+			],
+			[
+				"snip temp ",
+				"Snippet: templateperms"
+			],
+			[
+				"execute",
+				"Snippet: execute_operationsajax"
+			],
+			[
+				"snip web",
+				"Snippet: action_method_web"
+			],
+			[
+				"alter",
+				"Snippet: alter_cell_function"
+			],
+			[
+				"snip brow",
+				"Snippet: templatetinybrowse"
+			],
+			[
+				"operation",
+				"Snippet: execute_operationsajax"
+			],
+			[
+				"alter_ce",
+				"Snippet: alter_cell_function"
+			],
+			[
+				"snip input",
+				"Snippet: forminputtemplate"
+			],
+			[
+				"snip tableaj",
+				"Snippet: tableajax"
+			],
+			[
+				"snip templatlist",
+				"Snippet: templatelist"
+			],
+			[
+				"snip view",
+				"Snippet: viewtableajax"
+			],
+			[
+				"snip listar",
+				"Snippet: viewlistar"
+			],
+			[
+				"snip noti",
+				"Snippet: notification_system"
+			],
+			[
+				"snip user",
+				"Snippet: get_user_info"
+			],
+			[
+				"check",
+				"Snippet: table_checkbox"
+			],
+			[
+				"snip formu",
+				"Snippet: forminputtemplate"
+			],
+			[
+				"templateper",
+				"Snippet: templateperms"
+			],
+			[
+				"sniptemplate",
+				"Snippet: templatelist"
+			],
+			[
+				"table",
+				"Snippet: datatables_no_proccess"
+			],
+			[
+				"snip ",
+				"Snippet: templatetinybrowse"
+			],
+			[
+				"templa",
+				"Snippet: templatetinybrowse"
+			],
+			[
+				"snip tem",
+				"Snippet: templatelist"
+			],
+			[
+				"snip jquery",
+				"Snippet: jQuery.get"
+			],
+			[
+				"snip toot",
+				"Snippet: tooltip"
+			],
+			[
+				"snip pro",
+				"Snippet: datatables_no_proccess"
+			],
+			[
+				"snip formfile",
+				"Snippet: formfilterajax"
+			],
+			[
+				"snip ajax",
+				"Snippet: viewtableajax"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"snip dina",
+				"Snippet: dinamic_print"
+			],
+			[
+				"snip dinami",
+				"Snippet: dinamic_print_button"
+			],
+			[
+				"snip che\t",
+				"Snippet: thcheckinput"
+			],
+			[
+				"snip che",
+				"Snippet: table_checkbox"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 226.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/peter/projects/django/sbit",
+		"/home/peter/projects/django/sbit/sbit"
+	],
+	"file_history":
+	[
+		"/home/peter/projects/django/sbit/Lilith/eva_manag.py",
+		"/home/peter/projects/django/sbit/Lilith/urls.py",
+		"/home/peter/projects/django/sbit/Lilith/views.py",
+		"/home/peter/PycharmProjects/manag_cubes/sales_man/models.py",
+		"/home/peter/PycharmProjects/manag_cubes/scantrack/scantrack_manag.py",
+		"/home/peter/PycharmProjects/manag_cubes/manag_cubes/settings.py",
+		"/home/peter/PycharmProjects/manag_cubes/distribuidora/models.py",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/clean_manag.py",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/models.py",
+		"/home/peter/PycharmProjects/manag_cubes/breaking/breaking_cubes.py",
+		"/home/peter/PycharmProjects/manag_cubes/ctasctes/management/commands/ctacte_mainline.py",
+		"/home/peter/PycharmProjects/manag_cubes/ctasctes/ctacte_manag.py",
+		"/home/peter/fix_problem/algoritmos/fill_rate_generation.py",
+		"/home/peter/PycharmProjects/manag_cubes/cubodiario/manag_cubes.py",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/clean_master.py",
+		"/home/peter/PycharmProjects/manag_cubes/cubodiario/management/commands/diario_mainline.py",
+		"/home/peter/PycharmProjects/web_sales/sales_man/utils/newppart/NEWPPART.CLA",
+		"/home/peter/PycharmProjects/manag_cubes/clarion_man/cl3/aclientes/acliente.cla",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/management/commands/cleaned_mainline.py",
+		"/home/peter/PycharmProjects/manag_cubes/warehouse_man/models.py",
+		"/home/peter/PycharmProjects/manag_cubes/distribuidora/distribuidora_manag.py",
+		"/home/peter/PycharmProjects/manag_cubes/finance_man/models.py",
+		"/tmp/bbm",
+		"/tmp/bad_mails",
+		"/home/peter/fix_problem/algoritmos/pandas_split_period.py",
+		"/home/peter/PycharmProjects/manag_cubes/gstack/dist/js/sales_man.js",
+		"/home/peter/PycharmProjects/manag_cubes/gstack/smartadmin/css/your_style.css",
+		"/home/peter/PycharmProjects/manag_cubes/static/iwakura.js",
+		"/home/peter/PycharmProjects/manag_cubes/distribuidora/management/commands/distribuidora_mainline.py",
+		"/home/peter/PycharmProjects/manag_cubes/cubodiario/management/diario_mainline.py",
+		"/home/peter/PycharmProjects/manag_cubes/clarion_man/management/commands/cl_mainline.py",
+		"/home/peter/PycharmProjects/manag_cubes/scantrack/management/commands/scantrack_mainline.py",
+		"/home/peter/PycharmProjects/manag_cubes/scantrack/models.py",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/admin.py",
+		"/home/peter/PycharmProjects/manag_cubes/clarion_man/cl_manag.py",
+		"/home/peter/PycharmProjects/manag_cubes/ctasctes/models.py",
+		"/home/peter/PycharmProjects/manag_cubes/cubodiario/models.py",
+		"/home/peter/PycharmProjects/manag_cubes/static/notify.min.js",
+		"/home/peter/PycharmProjects/manag_cubes/clarion_man/cl3/aajuste/aajuste.cla",
+		"/home/peter/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/peter/PycharmProjects/manag_cubes/repartos/views.py",
+		"/home/peter/PycharmProjects/manag_cubes/scantrack_current.sh",
+		"/home/peter/.config/sublime-text-3/Packages/User/Flake8Lint.sublime-settings",
+		"/home/peter/PycharmProjects/manag_cubes/ctasctes/apps.py",
+		"/home/peter/PycharmProjects/manag_cubes/manag_cubes/gunicorn.conf.py",
+		"/home/peter/PycharmProjects/manag_cubes/.ipynb_checkpoints/cleaned_data-checkpoint.ipynb",
+		"/home/peter/.config/sublime-text-3/Packages/User/requests_netipa_api_prototype.sublime-snippet",
+		"/home/peter/PycharmProjects/manag_cubes/breaking/models.py",
+		"/home/peter/PycharmProjects/manag_cubes/scantrack_history.sh",
+		"/home/peter/PycharmProjects/manag_cubes/cubodiario/management/__int__.py",
+		"/home/peter/PycharmProjects/manag_cubes/web_sales_common/commands/converters/file_id.diz",
+		"/home/peter/PycharmProjects/manag_cubes/gstack/dist/js/truckmanag.js",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/bin/cleaned_populate.sh",
+		"/home/peter/PycharmProjects/manag_cubes/expiration/models.py",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/urls.py",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/templates/CrudModel.html",
+		"/home/peter/PycharmProjects/manag_cubes/templates/Base.html",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/templates/CrudLogin.html",
+		"/home/peter/PycharmProjects/manag_cubes/manag_cubes/wsgi.py",
+		"/home/peter/PycharmProjects/manag_cubes/bin/supervisor/spv_manag_cubes.conf",
+		"/home/peter/PycharmProjects/manag_cubes/bin/supervisor/spv_manag_cubes_celery.conf",
+		"/home/peter/PycharmProjects/manag_cubes/bin/supervisor/mcubes_nginx.conf",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/templates/CrudModelTabulator.html",
+		"/home/peter/PycharmProjects/manag_cubes/manag_cubes/celery.py",
+		"/home/peter/PycharmProjects/manag_cubes/manag_cubes/celery_tasks.py",
+		"/home/peter/PycharmProjects/manag_cubes/manag_cubes/__init__.py",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/tasks.py",
+		"/home/peter/PycharmProjects/manag_cubes/clarion_man/models.py",
+		"/home/peter/PycharmProjects/manag_cubes/cubodiario/transaction_manag.py",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/templates/CrudModelJtable.html",
+		"/home/peter/PycharmProjects/manag_cubes/static/mstyle.css",
+		"/home/peter/PycharmProjects/manag_cubes/breaking/management/commands/breaking_mainline.py",
+		"/home/peter/PycharmProjects/manag_cubes/web_sales_common/utilitarios.py",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/views.py",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/templates/CrudPlanilla.html",
+		"/home/peter/PycharmProjects/manag_cubes/cleaned_data/templates/CrudPlanillaError.html",
+		"/home/peter/PycharmProjects/manag_cubes/manag_cubes/urls.py",
+		"/var/conf/clock/ccaten.py",
+		"/var/conf/clock/qrclock.py",
+		"/var/conf/clock/ccatentin.py",
+		"/home/peter/PycharmProjects/manag_cubes/breaking/management/__init__.py",
+		"/home/peter/PycharmProjects/manag_cubes/gstack/tabulator/themes/tabulator_modern.less",
+		"/home/peter/PycharmProjects/manag_cubes/databases.sql",
+		"/home/peter/PycharmProjects/manag_cubes/scantrack_concathistory.sh",
+		"/home/peter/PycharmProjects/manag_cubes/cubodiario/management/commands/__init__.py",
+		"/home/peter/PycharmProjects/manag_cubes/cubodiario/management/__init__.py",
+		"/home/peter/PycharmProjects/manag_cubes/scantrack/management/commands/__init__.py",
+		"/tmp/LADMAR_ACONCAGUA-.ZIP - El archivo no se recibió a tiempo    .eml",
+		"/opt/xxx/iluminacion_clean.csv",
+		"/home/peter/PycharmProjects/manag_cubes/scantrack/management/__init__.py",
+		"/home/peter/PycharmProjects/manag_cubes/scantrack/procesar/SNACKS/2015/12.txt",
+		"/tmp/files.txt",
+		"/tmp/panales_2012_2016,csv",
+		"/home/peter/PycharmProjects/web_sales/templates/dashboard/DashboardDistribucionLogin.html",
+		"/home/peter/PycharmProjects/web_sales/warehouse_man/mobile/DistribucionPhone/www/main.html",
+		"/home/peter/PycharmProjects/web_sales/templates/finance_man/ListarCliente.html",
+		"/home/peter/PycharmProjects/web_sales/finance_man/models.py",
+		"/home/peter/PycharmProjects/web_sales/finance_man/urls.py",
+		"/home/peter/PycharmProjects/web_sales/finance_man/finance_man_formularios.py",
+		"/home/peter/PycharmProjects/web_sales/sales_man/management/commands/sales_mainline.py",
+		"/home/peter/PycharmProjects/web_sales/buy_man/urls.py",
+		"/home/peter/PycharmProjects/web_sales/buy_man/buy_manag.py",
+		"/home/peter/PycharmProjects/web_sales/sales_man/sales_manag.py",
+		"/home/peter/PycharmProjects/web_sales/web_sales_common/utilitarios.py",
+		"/home/peter/PycharmProjects/web_sales/sales_man/format_cache.py",
+		"/home/peter/PycharmProjects/web_sales/imp_man/views.py",
+		"/home/peter/PycharmProjects/web_sales/warehouse_man/mobile/DriverMan/platforms/android/cordova/node_modules/lodash/lang/isNative.js",
+		"/home/peter/PycharmProjects/web_sales/gstack/dist/js/wired.js",
+		"/home/peter/PycharmProjects/web_sales/buy_man/views.py",
+		"/home/peter/PycharmProjects/web_sales/templates/warehouse_man/RecepcionListar.html",
+		"/home/peter/PycharmProjects/web_sales/buy_man/buy_tables.py",
+		"/home/peter/PycharmProjects/web_sales/buy_man/migrations/0014_comprasdespachosheader_asiento_generado.py",
+		"/home/peter/PycharmProjects/web_sales/finance_man/finance_manag.py",
+		"/home/peter/PycharmProjects/web_sales/templates/finance_man/AgenciaCliente.html",
+		"/home/peter/PycharmProjects/web_sales/gstack/dist/js/iwakura.js",
+		"/home/peter/PycharmProjects/web_sales/warehouse_man/mobile/DriverMan/www/main.html",
+		"/home/peter/PycharmProjects/web_sales/finance_man/autocomplete_light_registry.py",
+		"/home/peter/PycharmProjects/web_sales/sales_man/models.py",
+		"/home/peter/PycharmProjects/web_sales/sales_man/sales_sepsa.py",
+		"/home/peter/PycharmProjects/web_sales/warehouse_man/warehouse_man_tables.py",
+		"/home/peter/PycharmProjects/web_sales/finance_man/finance_man_tables.py",
+		"/home/peter/PycharmProjects/web_sales/finance_man/views.py",
+		"/home/peter/PycharmProjects/web_sales/sales_man/autocomplete_light_registry.py",
+		"/home/peter/PycharmProjects/web_sales/warehouse_man/views.py",
+		"/home/peter/PycharmProjects/web_sales/templates/warehouse_man/ImprimirRecepcionHeader.html",
+		"/home/peter/PycharmProjects/web_sales/dashboard/autocomplete_light_registry.py",
+		"/home/peter/PycharmProjects/web_sales/gstack/dist/js/driver_man.js",
+		"/home/peter/PycharmProjects/web_sales/templates/finance_man/ClienteIni.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"cargado_010",
+			", ",
+			",",
+			", ",
+			"web_sales",
+			"evf",
+			"' #",
+			"'      ",
+			"'",
+			"'\\",
+			" =",
+			"  =",
+			"   =",
+			"  =",
+			"      =",
+			"     =",
+			"              ",
+			"             ",
+			"            ",
+			"           ",
+			"          ",
+			"         ",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			", ",
+			"documento.documento",
+			"2017-11-01",
+			"CPV_FECHA",
+			"CAB_FECHA",
+			"CABPEDI_FECHA",
+			"CABECERA_FECHA",
+			"2017-09-01",
+			"                ",
+			"DET_",
+			"CAB_",
+			"CAB",
+			"CAB_SUCURS",
+			"CABECERA_FECHA",
+			"DETALLE_FECHA",
+			"    ",
+			",    ",
+			":",
+			"clmanag.",
+			"self.clarion_date",
+			"rsync=True",
+			"(",
+			"Received: from ",
+			"df",
+			"datetuil",
+			"CLIE_ACO",
+			"diarioDJG",
+			"...:",
+			"int",
+			"2014",
+			"2015",
+			"rsync=True",
+			"ahora",
+			"dfacodaygood",
+			"columns()",
+			"lower",
+			"list(",
+			"pd.read_csv",
+			"kwargs.get('lower')",
+			"csvfile = '%s",
+			"csvfile",
+			"_safe",
+			"dlgdf",
+			"dira",
+			"print",
+			"tqdm.write",
+			"mdcfile",
+			"cube.split('/')[-1]",
+			"iluminacion",
+			"snacks",
+			"proteccion_femenina",
+			"panales",
+			"capilares",
+			"sourfile",
+			"max_length=5",
+			"max_length=30",
+			"round(",
+			"max_length=60",
+			"DecimalField",
+			"dd.",
+			"errors='coerce",
+			"erros",
+			"round",
+			"coerce",
+			"PRECIO-PANTALLA",
+			"=",
+			"='",
+			"FECHA",
+			"IntegerField",
+			", ",
+			"=",
+			", ",
+			"']",
+			"dd[",
+			"')",
+			"c",
+			"host_clarion",
+			", ]",
+			", ",
+			": ",
+			",",
+			": ",
+			"ahora",
+			"dst",
+			"proccess_cubes_olap",
+			"master_data",
+			"rc_dbf",
+			"publish_cube_unix",
+			"=",
+			"gcas",
+			"df[",
+			".iloc",
+			"dfpdv",
+			"dfpdv['CLIENTECOD'].apply(lambda x: dfpdvpdv[dfpdvpdv['codigo']",
+			"dfpdv['CLIENTECOD'].apply(lambda x: dfpdvpdv[dfpdvpdv['codigo'] == x].iloc[0]",
+			"df",
+			"iloc",
+			"df",
+			"dfcsv",
+			"dfacoday",
+			"dfacodaygood",
+			"dfacoday"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"managed = True",
+			"(index)",
+			"\n            ",
+			"managed = True",
+			"db_column",
+			"2.01.01.01.04.000",
+			"\n      ",
+			"dias_bloqueo",
+			"pimpdoc_facturarajax",
+			"imprimirfacturaspimpdoc",
+			"t-facturarpimpdoc",
+			"t-pimpdoc",
+			"pimpobj.",
+			"\\$",
+			"t-facturarbloque",
+			"t-facturarbloque-container",
+			"t-facturarbloque",
+			"listar_facturar_bloqueajax",
+			"t-bloquemovimientorealizar-{{ bloqueobj.pk }}",
+			"\n                                                   ",
+			"utilitarios",
+			"PROD_FORM_Cantidad",
+			"detailventa",
+			"BIGINT",
+			"propreciosnegocion-detalle-",
+			"t-negociondetalle-",
+			"t-propreciosnegociondetalle-",
+			"propreciosnegocion",
+			"ProPreciosNegocion",
+			"t-cpuntoventanegocion",
+			"factura_numero__icontains",
+			"#t-cpuntoventanegocion-{{ pk }}",
+			"cpuntoventanegocion",
+			"\n                                                                       ",
+			"pedidosheader",
+			"form_pedidosheader_filter",
+			"validators=[not_zero], default=1)",
+			"': ",
+			"();\n",
+			"$5",
+			"$4",
+			"$3",
+			"2",
+			"1",
+			">\n",
+			"$6",
+			"$5",
+			"$4",
+			"$3",
+			"$2",
+			"$1",
+			"pk",
+			"{{ pk }}",
+			"",
+			"form_prodpowerpackcondprin",
+			"        \n",
+			"ProductoPowerpack",
+			"                                        ('PRINCIPAL', 'PRINCIPAL'),\n\n                                       ])",
+			"PRINCIPAL",
+			"])\n",
+			"                                        ('PRINCIPAL', 'PRINCIPAL'),\n\n                                       ])",
+			"form_prodpowerpack",
+			"prodpowerpack",
+			"#"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sbit/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								909,
+								909
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										916,
+										917
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"region.bluish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										817,
+										818
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										908,
+										909
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										872,
+										873
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"touched": 1513315688.47
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Lilith/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19232,
+								19232
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										19474,
+										19475
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										19009,
+										19010
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1514265543.66,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8906.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Lilith/tasks.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"touched": 1514263911.64
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Lilith/eva_manag.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10831,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								344,
+								344
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"sftp_duplicate_views": 0,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"touched": 1514264832.36
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sbit/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3230,
+								3230
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1514264077.29,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "sbit/celery.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										170,
+										171
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										156,
+										157
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"touched": 1514264074.01
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Lilith/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2922,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2564,
+								2564
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 288,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2920,
+										2921
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1029,
+										1030
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"history_list_is_closing": true,
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"touched": 1513315685.23,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 28.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "sbit.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Lilith/views.py"
+			],
+			[
+				"eva",
+				"Lilith/eva_manag.py"
+			],
+			[
+				"settings.py",
+				"sbit/settings.py"
+			],
+			[
+				"lili",
+				"Lilith/eva_manag.py"
+			],
+			[
+				"urls.py",
+				"Lilith/urls.py"
+			],
+			[
+				"liliurls",
+				"Lilith/urls.py"
+			],
+			[
+				"lilitview",
+				"Lilith/views.py"
+			],
+			[
+				"liliturls",
+				"Lilith/urls.py"
+			],
+			[
+				"settings.y",
+				"sbit/settings.py"
+			],
+			[
+				"urls",
+				"sbit/urls.py"
+			],
+			[
+				"clenmainlin",
+				"manag_cubes/cleaned_data/management/commands/cleaned_mainline.py"
+			],
+			[
+				"cleanmas",
+				"manag_cubes/cleaned_data/clean_master.py"
+			],
+			[
+				"finamode",
+				"manag_cubes/finance_man/models.py"
+			],
+			[
+				"diariomainlin",
+				"manag_cubes/cubodiario/management/commands/diario_mainline.py"
+			],
+			[
+				"manag_cube",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"cleanm",
+				"manag_cubes/cleaned_data/clean_master.py"
+			],
+			[
+				"scantrak",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				"ctamainlin",
+				"manag_cubes/ctasctes/management/commands/ctacte_mainline.py"
+			],
+			[
+				"ctacte",
+				"manag_cubes/ctasctes/ctacte_manag.py"
+			],
+			[
+				"diariomainline",
+				"manag_cubes/cubodiario/management/commands/diario_mainline.py"
+			],
+			[
+				"distrimana",
+				"manag_cubes/distribuidora/distribuidora_manag.py"
+			],
+			[
+				"cubodiramanage",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"scan",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				"sales_manmodel",
+				"manag_cubes/sales_man/models.py"
+			],
+			[
+				"warehmodels",
+				"manag_cubes/warehouse_man/models.py"
+			],
+			[
+				"dis",
+				"manag_cubes/distribuidora/distribuidora_manag.py"
+			],
+			[
+				"mainline",
+				"manag_cubes/cleaned_data/management/commands/cleaned_mainline.py"
+			],
+			[
+				"clean",
+				"manag_cubes/cleaned_data/clean_manag.py"
+			],
+			[
+				"manag_cubes",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"dismodels",
+				"manag_cubes/distribuidora/models.py"
+			],
+			[
+				"scanman",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				"distrimodel",
+				"manag_cubes/distribuidora/models.py"
+			],
+			[
+				"scant",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				"distri",
+				"manag_cubes/distribuidora/distribuidora_manag.py"
+			],
+			[
+				"diario_mainlin",
+				"manag_cubes/cubodiario/management/diario_mainline.py"
+			],
+			[
+				"cl_mainlin",
+				"manag_cubes/clarion_man/management/commands/cl_mainline.py"
+			],
+			[
+				"cubodimainlin",
+				"manag_cubes/cubodiario/management/commands/diario_mainline.py"
+			],
+			[
+				"diariomain",
+				"manag_cubes/cubodiario/management/diario_mainline.py"
+			],
+			[
+				"n",
+				"manag_cubes/clarion_man/cl_manag.py"
+			],
+			[
+				"manag",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"ctactemailni",
+				"manag_cubes/ctasctes/management/commands/ctacte_mainline.py"
+			],
+			[
+				"manag_cub",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"ctactemainlin",
+				"manag_cubes/ctasctes/management/commands/ctacte_mainline.py"
+			],
+			[
+				"scantra",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				"distrimainline",
+				"manag_cubes/distribuidora/management/commands/distribuidora_mainline.py"
+			],
+			[
+				"distrimodels",
+				"manag_cubes/distribuidora/models.py"
+			],
+			[
+				"cleanmast",
+				"manag_cubes/cleaned_data/clean_master.py"
+			],
+			[
+				"scantramodels",
+				"manag_cubes/scantrack/models.py"
+			],
+			[
+				"scantrack",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				"manag_cue",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"manag_cu",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"scanp",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				"clean_",
+				"manag_cubes/cleaned_data/clean_master.py"
+			],
+			[
+				"clea_nam",
+				"manag_cubes/cleaned_data/admin.py"
+			],
+			[
+				"clean_master",
+				"manag_cubes/cleaned_data/clean_master.py"
+			],
+			[
+				"mainlin",
+				"manag_cubes/cleaned_data/management/commands/cleaned_mainline.py"
+			],
+			[
+				"diraiomainline",
+				"manag_cubes/cubodiario/management/commands/diario_mainline.py"
+			],
+			[
+				"ctaman",
+				"manag_cubes/ctasctes/ctacte_manag.py"
+			],
+			[
+				"diaromainlin",
+				"manag_cubes/cubodiario/management/commands/diario_mainline.py"
+			],
+			[
+				"cubodimain",
+				"manag_cubes/cubodiario/management/commands/diario_mainline.py"
+			],
+			[
+				"cleanmodels",
+				"manag_cubes/cleaned_data/models.py"
+			],
+			[
+				"cleanmin",
+				"manag_cubes/cleaned_data/management/commands/cleaned_mainline.py"
+			],
+			[
+				"master",
+				"manag_cubes/cleaned_data/clean_master.py"
+			],
+			[
+				"iwark",
+				"manag_cubes/static/iwakura.js"
+			],
+			[
+				"yourt_",
+				"manag_cubes/gstack/smartadmin/css/your_style.css"
+			],
+			[
+				"sales_man.js",
+				"manag_cubes/gstack/dist/js/sales_man.js"
+			],
+			[
+				"financemodel",
+				"manag_cubes/finance_man/models.py"
+			],
+			[
+				"cubodimana",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"cubodiariomanag",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"cubodimodel",
+				"manag_cubes/cubodiario/models.py"
+			],
+			[
+				"ctactemainline",
+				"manag_cubes/ctasctes/management/commands/ctacte_mainline.py"
+			],
+			[
+				"ctacteman",
+				"manag_cubes/ctasctes/ctacte_manag.py"
+			],
+			[
+				"cubodiariomodel",
+				"manag_cubes/cubodiario/models.py"
+			],
+			[
+				"cleanmodel",
+				"manag_cubes/cleaned_data/models.py"
+			],
+			[
+				"rptvie",
+				"manag_cubes/repartos/views.py"
+			],
+			[
+				"cubodiariomainlin",
+				"manag_cubes/cubodiario/management/commands/diario_mainline.py"
+			],
+			[
+				"manamode",
+				"manag_cubes/cubodiario/models.py"
+			],
+			[
+				"diario_mainline",
+				"manag_cubes/cubodiario/management/commands/diario_mainline.py"
+			],
+			[
+				"manag_cubes.py",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"cleanmaster",
+				"manag_cubes/cleaned_data/clean_master.py"
+			],
+			[
+				"clean_m",
+				"manag_cubes/cleaned_data/clean_master.py"
+			],
+			[
+				"cleanmainl",
+				"manag_cubes/cleaned_data/management/commands/cleaned_mainline.py"
+			],
+			[
+				"cleanmainlin",
+				"manag_cubes/cleaned_data/management/commands/cleaned_mainline.py"
+			],
+			[
+				"cleanmodle",
+				"manag_cubes/cleaned_data/models.py"
+			],
+			[
+				"managmodels",
+				"manag_cubes/cubodiario/models.py"
+			],
+			[
+				"manamodel",
+				"manag_cubes/cleaned_data/models.py"
+			],
+			[
+				"managcubemodes",
+				"manag_cubes/cleaned_data/models.py"
+			],
+			[
+				"cleanmain",
+				"manag_cubes/cleaned_data/management/commands/cleaned_mainline.py"
+			],
+			[
+				"cleanedmodel",
+				"manag_cubes/cleaned_data/models.py"
+			],
+			[
+				"cubomodels",
+				"manag_cubes/cubodiario/models.py"
+			],
+			[
+				"scantrackmain",
+				"manag_cubes/scantrack/management/commands/scantrack_mainline.py"
+			],
+			[
+				"scantrack_mainline",
+				"manag_cubes/scantrack/management/commands/scantrack_mainline.py"
+			],
+			[
+				"scantramana",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				"cleanman",
+				"manag_cubes/cleaned_data/management/commands/cleaned_mainline.py"
+			],
+			[
+				"scantr",
+				"manag_cubes/scantrack_current.sh"
+			],
+			[
+				"sctranmainlin",
+				"manag_cubes/scantrack/management/commands/scantrack_mainline.py"
+			],
+			[
+				"scanmainline",
+				"manag_cubes/scantrack/management/commands/scantrack_mainline.py"
+			],
+			[
+				"scantrackmainlin",
+				"manag_cubes/scantrack/management/commands/scantrack_mainline.py"
+			],
+			[
+				"scantrackmana",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				"ctactemodel",
+				"manag_cubes/ctasctes/models.py"
+			],
+			[
+				"cubodi",
+				"manag_cubes/cubodiario/manag_cubes.py"
+			],
+			[
+				"managmainline",
+				"manag_cubes/ctasctes/management/commands/ctacte_mainline.py"
+			],
+			[
+				"ctamanag",
+				"manag_cubes/ctasctes/ctacte_manag.py"
+			],
+			[
+				"cubomainlin",
+				"manag_cubes/cubodiario/management/commands/diario_mainline.py"
+			],
+			[
+				"iwka",
+				"manag_cubes/static/iwakura.js"
+			],
+			[
+				"distrimanag",
+				"manag_cubes/distribuidora/distribuidora_manag.py"
+			],
+			[
+				"ctactamainlin",
+				"manag_cubes/ctasctes/management/commands/ctacte_mainline.py"
+			],
+			[
+				"cleanmainline",
+				"manag_cubes/cleaned_data/management/commands/cleaned_mainline.py"
+			],
+			[
+				"ctacte_",
+				"manag_cubes/ctasctes/management/commands/ctacte_mainline.py"
+			],
+			[
+				"cl_manag",
+				"manag_cubes/clarion_man/cl_manag.py"
+			],
+			[
+				"cl_man",
+				"manag_cubes/clarion_man/cl_manag.py"
+			],
+			[
+				"clarionmodel",
+				"manag_cubes/clarion_man/models.py"
+			],
+			[
+				"cl_mana",
+				"manag_cubes/clarion_man/cl_manag.py"
+			],
+			[
+				"ctacte_manag",
+				"manag_cubes/ctasctes/ctacte_manag.py"
+			],
+			[
+				".html",
+				"manag_cubes/templates/Base.html"
+			],
+			[
+				"utili",
+				"manag_cubes/web_sales_common/utilitarios.py"
+			],
+			[
+				"clarionmodels",
+				"manag_cubes/clarion_man/models.py"
+			],
+			[
+				"ctactemain",
+				"manag_cubes/ctasctes/management/commands/ctacte_mainline.py"
+			],
+			[
+				"scanmanag",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				"scanmana",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			],
+			[
+				".sh",
+				"manag_cubes/scantrack_current.sh"
+			],
+			[
+				"scantrakmainline",
+				"manag_cubes/scantrack/management/commands/scantrack_mainline.py"
+			],
+			[
+				"cleanmana",
+				"manag_cubes/cleaned_data/clean_manag.py"
+			],
+			[
+				"ctactemodels",
+				"manag_cubes/ctasctes/models.py"
+			],
+			[
+				"ctactemanag",
+				"manag_cubes/ctasctes/ctacte_manag.py"
+			],
+			[
+				"cleeanmainline",
+				"manag_cubes/cleaned_data/management/commands/cleaned_mainline.py"
+			],
+			[
+				"cta_manag",
+				"manag_cubes/ctasctes/ctacte_manag.py"
+			],
+			[
+				"scantrackmanag",
+				"manag_cubes/scantrack/scantrack_manag.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web",
+				"~/PycharmProjects/web_sales/web_sales.sublime-project"
+			],
+			[
+				"",
+				"~/PycharmProjects/web_sales/web_sales.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 674.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
